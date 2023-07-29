@@ -1,0 +1,101 @@
+.s1{
+    border: solid darkred 3px;
+      color: red;
+       background-color: white;
+         width: 310px;
+          height: 204px;
+           margin: 21px;
+            margin-left: 93px;
+                margin-top: 90px;
+                  padding: 30px;
+                   float: left;
+                     text-align: center;
+                       font-family: math;
+                       
+
+
+
+
+}
+
+.s2{
+        border:  solid darkred 3px;
+           color: red;
+               background-color: white;
+                 width: 284px;
+                    height: 198px;
+                       padding: 49px;
+                        padding-top: 26px;
+                          text-align: center;
+                    float: left;
+                 margin-left: 89px;
+             margin-top: 89px;
+       font-family: math;
+}
+
+.s3{
+    
+border: solid darkred 3px;
+   width: 300px;
+       color: red;
+          background-color: white;
+            height: 194px;
+             padding: 50px;
+              padding-left: 35px;
+   padding-top: 30px;
+    margin: 20px;
+     float: left;
+       margin-left: 89px;
+          margin-top: 90px;
+            text-align: center;
+              font-family: math;
+}
+
+.a{
+     margin-left: 713px;
+                
+   font-family: cursive;
+
+font-size: 75%;
+color: red;
+}
+
+.a1{
+           color: darkred;
+               background-color: cornsilk;
+                border: solid 3px;
+                    height: 31px;
+                        width: 87px;
+                margin-left: 251px;
+            margin-top: -32px;
+        font-family: cursive;
+}
+
+.a2{
+       color: darkred;
+           background-color: cornsilk;
+               border: solid 3px;
+                float: left;
+                   margin-top: -28px;
+            margin-left: 265px;
+        width: 65px;
+     height: 31px;
+font-family: cursive;
+}
+
+.a3{
+             color: darkred;
+                 background-color: cornsilk;
+                     border: solid 3px;
+                        margin-top: -32px;
+                           width: 64px;
+                height: 32px;
+              margin-left: 283px;
+          font-family: cursive;
+}
+.center{
+display: flex;
+}
+
+
+
